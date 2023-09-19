@@ -1,0 +1,15 @@
+{
+  "description": "Prova de presença no curso de Solidity", 
+  "image": "https://jeffprestes.github.io/nft-bradesco/1.png", 
+  "name": "Evidencia Presenca Curso Bradesco - Aula 07",
+  "attributes": [
+    {
+      "trait_type": "Ano", 
+      "value": "2023"
+    },
+    {
+      "trait_type": "Aula", 
+      "value": "07"
+    }
+  ]
+}
