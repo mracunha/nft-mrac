@@ -1,15 +1,15 @@
 {
   "description": "Prova de presença no curso de Solidity", 
-  "image": "https://jeffprestes.github.io/nft-bradesco/1.png", 
-  "name": "Evidencia Presenca Curso Bradesco - Aula 07",
+  "image": "https://github.com/mracunha/nft-mrac/1.png", 
+  "name": "Token Teste",
   "attributes": [
     {
       "trait_type": "Ano", 
       "value": "2023"
     },
     {
-      "trait_type": "Aula", 
-      "value": "07"
+      "trait_type": "Teste", 
+      "value": "01"
     }
   ]
 }
